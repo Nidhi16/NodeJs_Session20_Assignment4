@@ -1,0 +1,23 @@
+{
+  "name": "test-next-prime",
+  "version": "1.0.0",
+  "description": "This is acadgild assignment to test next generated prime number",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nidhi16/NodeJs_Session20_Assignment4.git"
+  },
+  "author": "Nidhi Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nidhi16/NodeJs_Session20_Assignment4/issues"
+  },
+  "homepage": "https://github.com/Nidhi16/NodeJs_Session20_Assignment4#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "should": "^13.1.3"
+  }
+}
